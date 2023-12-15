@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "51CD182D-DEBA-4836-94FC-53388DBE82D6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF3EE3AA-AE9C-4168-A665-14366014EB65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/SelectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "pickStarter(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF3EE3AA-AE9C-4168-A665-14366014EB65 - 32697210f32ecc39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.SelectionViewController.pickStarter(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/SelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+               <Location
+                  uuid = "CF3EE3AA-AE9C-4168-A665-14366014EB65 - 32697210f32ecdef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.SelectionViewController.pickStarter(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/SelectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C3D538F-3EFE-4430-A8C1-01E43ED29494"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/BattleScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "attack(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C209B171-CE12-4657-841C-3E9DEB721ABD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "snapJawTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C209B171-CE12-4657-841C-3E9DEB721ABD - af087825d06bb22d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.CollectionViewController.snapJawTapped(Any) -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "C209B171-CE12-4657-841C-3E9DEB721ABD - af087825d06bb28e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.CollectionViewController.snapJawTapped(Any) -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47202458-C188-4083-A46D-CD11FE824BE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/CollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "pyraxTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47202458-C188-4083-A46D-CD11FE824BE0 - 2a0204d62da9f0f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.CollectionViewController.pyraxTapped(Any) -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "47202458-C188-4083-A46D-CD11FE824BE0 - 2a0204d62da9f039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.CollectionViewController.pyraxTapped(Any) -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/CollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD679D18-37BB-4E52-A24E-54C4D8E9FD63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/FitnessViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD679D18-37BB-4E52-A24E-54C4D8E9FD63 - 495abe31f3dc2f67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.FitnessViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/FitnessViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "CD679D18-37BB-4E52-A24E-54C4D8E9FD63 - 495abe31f3dc2f04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.FitnessViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/FitnessViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "CD679D18-37BB-4E52-A24E-54C4D8E9FD63 - 495abe31f3dc2f67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.FitnessViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/FitnessViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91C53094-DA3A-41A5-84D7-C359EE81D296"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/FitnessModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
+            landmarkName = "handlePedometer(_:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1959755-7FE9-46C9-A316-8AB31FF0D032"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/FitnessModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
+            landmarkName = "handleOldPedometerData(_:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC53107B-2A2E-40D0-9617-262CA500AF88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/FitnessViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC53107B-2A2E-40D0-9617-262CA500AF88 - 495abe31f3dc2f67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.FitnessViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/FitnessViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FC53107B-2A2E-40D0-9617-262CA500AF88 - 495abe31f3dc2ea9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.FitnessViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/FitnessViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FC53107B-2A2E-40D0-9617-262CA500AF88 - 495abe31f3dc2ea9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MonsterTrainer.FitnessViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "MonsterTrainer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loaner/Desktop/Projectts/MonsterTrainer/MonsterTrainer/FitnessViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14249B73-653F-4807-A2DD-F4706B9CEB0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/MenuViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "fitnessStatsTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A685E19-EFF0-4AF3-BA58-A605913CC131"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MonsterTrainer/FitnessModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "getDistanceGoal()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
